@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Gabriel%20Freitas&fontSize=50&fontColor=ffffff&fontAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32527b&height=120&section=header&text=Gabriel%20Freitas&fontSize=50&fontColor=ffffff&fontAlign=50"/>
 </div>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,4 +28,4 @@
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Freitasbtw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dsf/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freitasbtw)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32527b&height=100&section=footer"/> 
