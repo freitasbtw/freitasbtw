@@ -13,7 +13,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
-
+- 🤖 **[Fyodor](https://github.com/saveasfranca/fyodor)** - AI-powered Operations Research platform that converts natural language into mathematical models (HiGHS) with secure sandbox execution.
 - 🛠️ **[Skillmap](https://github.com/freitasbtw/skillmap)** - AI-driven mobile app for career reskilling; features automated roadmaps, gamification, and real-time progress tracking.
 - 🏋️ **[Mindfit](https://github.com/freitasbtw/mindfit)** - Full-stack fitness platform featuring AI-powered meal/workout plans, real-time calorie tracking (USDA data), and interactive progress charts.
 - 📚 **[FluentWords](https://github.com/freitasbtw/fluentwords)** - Vocabulary SaaS with SM-2 spaced repetition, color-coded word management, and Stripe-integrated freemium features.
