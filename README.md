@@ -14,6 +14,9 @@
 
 ## Current Projects
 
+- 🛠️ **[Skillmap](https://github.com/freitasbtw/skillmap)** - AI-driven mobile app for career reskilling; features automated roadmaps, gamification, and real-time progress tracking.
+- 🏋️ **[Mindfit](https://github.com/freitasbtw/mindfit)** - Full-stack fitness platform featuring AI-powered meal/workout plans, real-time calorie tracking (USDA data), and interactive progress charts.
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/freitasbtw)
