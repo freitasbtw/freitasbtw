@@ -22,8 +22,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/freitasbtw)
 
-## What I'm Doing
-
 ## Connect
 
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Freitasbtw)
