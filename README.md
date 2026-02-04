@@ -12,7 +12,8 @@
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## Current Projects
+## Current Projects 
+- 🪙 **[Walletbtw](https://github.com/freitasbtw/walletbtw)** - Open-source crypto portfolio manager with real-time price tracking (Mercado Bitcoin API) and 100% client-side privacy.
 - 🤖 **[Fyodor](https://github.com/saveasfranca/fyodor)** - AI-powered Operations Research platform that converts natural language into mathematical models (HiGHS) with secure sandbox execution.
 - 🛠️ **[Skillmap](https://github.com/freitasbtw/skillmap)** - AI-driven mobile app for career reskilling; features automated roadmaps, gamification, and real-time progress tracking.
 - 🏋️ **[Mindfit](https://github.com/freitasbtw/mindfit)** - Full-stack fitness platform featuring AI-powered meal/workout plans, real-time calorie tracking (USDA data), and interactive progress charts.
