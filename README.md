@@ -52,21 +52,13 @@
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/ffffff/freitasbtw" />
-</p>
-
----
-
 ## Certificates
 
 <p align="center">
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=517862&theme=dark" width="120" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=517862&theme=dark" width="140" />
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=507934&theme=dark" width="120" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=507934&theme=dark" width="140" />
 
 </p>
 
