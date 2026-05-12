@@ -43,12 +43,6 @@
 
 </p>
 
-<p align="center">
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freitasbtw&theme=github_dark"/>
-
-</p>
-
 
 ---
 
