@@ -32,3 +32,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32527b&height=100&section=footer"/> 
 
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=517862&theme=light" width="120" />
+
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=507934&theme=light" width="120" />
+
