@@ -23,16 +23,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,postgres,aws,git" />
-</p>
-
-<p align="center">
-
-![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-000?style=flat-square\&logo=qlik\&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-000?style=flat-square\&logo=amazonaws\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square\&logo=postgresql\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,postgres,aws,nextjs,git" />
 </p>
 
 ---
@@ -42,32 +33,9 @@
 * 🛡️ **[Vigilante.AI](https://github.com/freitasbtw/vigilante-ai)**
   Computer vision platform for PPE monitoring in industrial environments using YOLOv8 and real-time alerts.
 
-* 🪙 **[Walletbtw](https://github.com/freitasbtw/walletbtw)**
-  Open-source crypto portfolio manager with real-time tracking and client-side privacy.
-
-* 🤖 **[Fyodor](https://github.com/saveasfranca/fyodor)**
-  AI-powered Operations Research platform that converts natural language into mathematical optimization models.
-
-* 🛠️ **[Skillmap](https://github.com/freitasbtw/skillmap)**
-  AI-driven mobile app for career reskilling with personalized learning roadmaps.
-
-* 🏋️ **[Mindfit](https://github.com/freitasbtw/mindfit)**
-  Full-stack fitness platform with AI-generated meal and workout plans.
-
-* 📚 **[FluentWords](https://github.com/freitasbtw/fluentwords)**
-  Vocabulary learning SaaS using spaced repetition and gamification.
-
 ---
 
 ## GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=freitasbtw&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasbtw&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
